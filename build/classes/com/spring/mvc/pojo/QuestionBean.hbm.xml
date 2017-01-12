@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+
+<hibernate-mapping  package="com.spring.mvc.pojo">
+<class name="QuestionBean" table="answer"> 
+<id name="student_id" column="id"></id>
+<property name="ans1" column="ans1"></property>
+<property name="ans2" column="ans2"></property>
+<property name="ans3" column="ans3"></property>
+<property name="ans4" column="ans4"></property>
+<property name="ans5" column="ans5"></property>
+<property name="ans6" column="ans6"></property>
+<property name="ans7" column="ans7"></property>
+<property name="ans8" column="ans8"></property>
+<property name="ans9" column="ans9"></property>
+<property name="ans10" column="ans10"></property>
+<property name="ans11" column="ans11"></property>
+<property name="ans12" column="ans12"></property>
+<property name="ans13" column="ans13"></property>
+<property name="ans14" column="ans14"></property>
+<property name="ans15" column="ans15"></property>
+<property name="ans16" column="ans16"></property>
+<property name="ans17" column="ans17"></property>
+<property name="ans18" column="ans18"></property>
+
+
+</class>
+</hibernate-mapping>

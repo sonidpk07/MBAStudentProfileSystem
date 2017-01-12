@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+
+<hibernate-mapping  package="com.spring.mvc.pojo">
+<class name="AddStuBean" table="student"> 
+<id name="ucmid" column="ucmid">
+
+</id>
+<property name="fname" column="fname"></property>
+<property name="lname" column="lname"></property>
+<property name="add" column="address"></property>
+<property name="phone" column="phone"></property>
+<property name="uemail" column="uemail"></property>
+<property name="non_uemail" column="non_uemail"></property>
+<property name="concentration" column="concentration"></property>
+<property name="entry_date" column="entry_date"></property>
+<property name="qunat" column="quant"></property>
+<property name="verbal" column="verbal"></property>
+<property name="gpa" column="gpa"></property>
+<property name="approved" column="approved"></property>
+<property name="approvedDate" column="approvedDate"></property>
+<property name="withdrawn" column="withdrawn"></property>
+<property name="withdrawnDate" column="withdrawnDate"></property>
+<property name="accepted" column="accepted"></property>
+<property name="acceptedTime" column="acceptedTime"></property>
+<property name="accepted_con" column="accepted_con"></property>
+<property name="accepted_conTime" column="accepted_conTime"></property>
+<property name="note" column="note"></property>
+<property name="note_date" column="note_date"></property>
+<property name="acc" column="acc"></property>
+<property name="password" column="password"></property>
+<property name="prereq" column="prereq"></property>
+<property name="prereq_date" column="prereq_date"></property>
+</class>
+</hibernate-mapping>
+
+
+
+
+

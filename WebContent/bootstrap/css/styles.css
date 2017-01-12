@@ -1,0 +1,224 @@
+
+
+
+
+@media (max-width:767px){
+	.img-responsive{
+		max-width:50%;
+		min-width:300px;
+	}  
+}/* For admin page images*/
+
+
+
+/* For google form */
+@media (max-width:767px){
+	.gform {
+		max-width:100%;
+	}
+}
+
+@media (max-width:1197px){
+	.gform {
+		max-width:90%;
+	}
+}
+
+
+/* For carousel images*/
+@media (max-width:767px){
+	.thumbnailSize {
+		max-width:100%;
+		max-height:10%;
+		
+	}
+}
+
+
+
+
+
+#fbpage{
+width: 280px;
+height: 350px;
+background-color: #e5e5e5;
+ }
+
+
+.page-header {
+	margin-top: 0;
+}
+
+.panel-body{
+	padding-top: 0;
+}
+
+
+
+.news-thumb img:hover{
+	transform:scale(1.1);
+}
+
+.line{
+	color:black;
+}
+
+.title{
+	letter-spacing: 2px;
+	color:#800000;
+}
+.tableheading{
+	font-size:16px;
+	letter-spacing: 1px;
+	color:#800000;
+}
+
+.namedivider{
+	letter-spacing: 1px;
+	color:#2E28A2;
+}
+
+
+.newsdivider2{
+	letter-spacing: 2px;
+	color:#2E28A2;
+	padding-left:90px;
+}
+
+/*  Main body content */
+
+.small{
+	font-size:15px;
+}
+
+.content{
+	padding-top: 68px;
+	padding-left:18px;
+	padding-right:18px;
+	
+}
+.content1{
+	padding-top: 40px;
+}
+
+.head{
+	padding-top:15px;
+}
+.bottom{
+	 padding-bottom: 1px;
+}
+
+/*  left hand heading text */
+.mainlogo{
+	letter-spacing: 4px;
+}
+
+/* heading color   */
+.navbar-default .navbar-brand {
+    color: #C4C5CA;
+	margin-top:-27px;
+	
+}
+
+/* menu color  */
+.navbar-default .navbar-nav>li>a {
+    color: black;
+	font-size:20px;
+}
+
+.menuitems{
+	font-size:21px;	
+	padding-left:1px;
+	letter-spacing: 1px;
+	font-family:"Comic Sans MS", cursive, sans-serif
+	
+}
+/* header color   */
+.navbar-default {
+    background-color:#800000;
+    border-color:black;
+    border-style: solid;
+    border-width: 2px;
+	
+}
+	
+.mission{
+	color:grey;
+	font-size:17px;
+}	
+
+
+.jumbotron {
+	
+    padding-top: 5px;
+    padding-bottom: 18px;
+    padding-left: 1px;
+    padding-right: 1px;
+    color:black;
+}
+
+
+<div class="form-group">
+    <label for="Quant">GRE/GMAT: Quant Score</label>
+    <form:input path="qunat" required="true" placeholder="Quant Score" pattern="[0-9]{3}"
+    title="Should contain only digits. Max length:3" 
+    class="form-control" placeholder="Quant score" style="width:60%;" id="Quant"/>
+  </div>
+  
+  <div class="form-group">
+    <label for="lname">Verbal Score</label>
+    <form:input path="verbal" required="true" placeholder="Verbal Score" pattern="[0-9]{3}"
+	title="Should contain only digits. Max length:3"
+    class="form-control" placeholder="Verbal score" style="width:60%;" id="lname"/>
+  </div>
+  
+  <div class="form-group">
+    <label for="lname">GPA</label>
+    <form:input path="gpa" required="true" pattern="[0-9.]{4}" title="Max length:4"
+    class="form-control" placeholder="GPA" style="width:60%;" id="lname"/>
+  </div>
+  
+  <div class="form-group">
+    <label for="lname">Academic Code of Conduct completed?</label>
+    <form:select path="acc" required="true"  class="form-control" 
+    placeholder="secondary email" style="width:60%;" id="lname">
+    	<option value="">Select</option>
+		<option value="YES">Yes</option>
+		<option value="NO">No</option>
+    </form:select>
+  </div>
+  
+  <div class="form-group">
+    <label for="lname">Approved for graduation?</label>
+    <form:select  path="approved" required="true"  class="form-control" 
+    placeholder="secondary email" style="width:60%;" id="lname">
+    	<option value="">Select</option>
+		<option value="YES">Yes</option>
+		<option value="NO">No</option>
+    </form:select>
+  </div>
+  
+  <div class="form-group">
+    <label for="lname">Accepted into program?</label>
+    <form:select path="accepted" required="true"  class="form-control" 
+    placeholder="secondary email" style="width:60%;" id="lname">
+    	<option value="">Select</option>
+		<option value="YES">Yes</option>
+		<option value="NO">No</option>
+    </form:select>
+  </div>
+  
+   <div class="form-group">
+    <label for="lname">Accepted into program with conditions?</label>
+    <form:select path="accepted_con" required="true"  class="form-control" 
+    placeholder="secondary email" style="width:60%;" id="lname">
+    	<option value="">Select</option>
+		<option value="YES">Yes</option>
+		<option value="NO">No</option>
+    </form:select>
+  </div>
+  
+  <div class="form-group">
+    <label for="exampleTextarea">Extra Notes</label>
+    <form:textarea path="note" class="form-control" id="exampleTextarea" rows="3"></form:textarea>
+  </div>

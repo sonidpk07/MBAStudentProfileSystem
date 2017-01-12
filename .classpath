@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_91]">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/Spring Related Jars/requiredCore/commons-logging-1.1.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/Spring Related Jars/requiredCore/spring-beans-4.0.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/Spring Related Jars/requiredCore/spring-context-4.0.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/Spring Related Jars/requiredCore/spring-context-support-4.0.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/Spring Related Jars/requiredCore/spring-core-4.0.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/Spring Related Jars/requiredCore/spring-expression-4.0.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/Spring Related Jars/requiredWeb/jstl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/Spring Related Jars/requiredWeb/spring-aop-4.0.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/Spring Related Jars/requiredWeb/spring-web-4.0.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/Spring Related Jars/requiredWeb/spring-webmvc-4.0.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/Spring Related Jars/requiredWeb/standard.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/commons-logging-1.2/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/antlr-2.7.7.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/cdi-api-1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/classmate-1.3.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/dom4j-1.6.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/el-api-2.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/geronimo-jta_1.1_spec-1.1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/hibernate-commons-annotations-5.0.1.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/hibernate-core-5.2.2.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/hibernate-jpa-2.1-api-1.0.0.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/jandex-2.0.0.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/javassist-3.20.0-GA.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/javax.inject-1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/jboss-logging-3.3.0.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-release-5.2.2.Final/lib/required/jsr250-api-1.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Downloads/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-validator-5.2.4.Final/dist/lib/required/classmate-1.1.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-validator-5.2.4.Final/dist/lib/required/javax.el-2.2.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-validator-5.2.4.Final/dist/lib/required/javax.el-api-2.2.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-validator-5.2.4.Final/dist/lib/required/jboss-logging-3.2.1.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/hibernate-validator-5.2.4.Final/dist/lib/required/validation-api-1.1.0.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/Mail/mail.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/deepaksoni/Desktop/Spring and Hibernate JAR files/Mail/activation.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
